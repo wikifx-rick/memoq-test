@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string name="HBHC_200052">Diğer</string>
+    <string name="HBHC_200018">Operasyona izin verilmiyor, mevcut maruziyet soruşturma altında</string>
+    <string name="HBHC_200011">Doğrulama başarısız</string>
+    <string name="HBHC_200095">Koruma Hakları Tutarı</string>
+    <string name="HBHC_200098">Hareket Hesabı</string>
+    <string name="HBHC_200092">Koruma Hakları Nesnesi</string>
+    <string name="HBHC_200019">Geçerli pozlama için izin verilmeyen işlem kilitlendi</string>
+    <string name="HBHC_200121">Bekleyen</string>
+    <string name="HBHC_200001">Ziyaretçilerin yazmasına izin yok</string>
+    <string name="HBHC_200123">Geçmedi</string>
+    <string name="HBHC_200090">Hall edildi</string>
+    <string name="HBHC_200111">gün</string>
+    <string name="HBHC_200078">Tutar</string>
+    <string name="HBHC_200112">Saat</string>
+    <string name="HBHC_200073">Katılımcı</string>
+    <string name="HBHC_200074">Tüccar</string>
+    <string name="HBHC_200071">Aracı</string>
+    <string name="HBHC_200072">Komisyoncular</string>
+    <string name="HBHC_200103">Yanıt</string>
+    <string name="HBHC_200105">Doğrulandı</string>
+    <string name="HBHC_200063">Diğer</string>
+    <string name="HBHC_200064">Aldatmaca</string>
+    <string name="HBHC_200107">Hall edildi</string>
+    <string name="14762">EPC Merkezi'nden tazminat başvurusunda bulunmadan önce, lütfen sağladığınız tüm bilgilerin gerçek ve geçerli olduğundan emin olun. Gönderdiğiniz bilgiler sahte ise, EPC Merkezi tazminat yeterliliğinizi iptal etme hakkını saklı tutar.</string>
+    <string name="14763">Komisyoncu kaçamak yaparsa, EPC Merkezi gerçek kaybı telafi eder ve miktar müşteri başına tazminat sınırını aşmaz.</string>
+    <string name="14764">Her tazminatın geçerlilik süresi</string>
+    <string name="16482">USD</string>
+    <string name="16485">Her uygulamanın geçerlilik süresi</string>
+    <string name="16627">Dakika</string>
+    <string name="16727">gün/servis</string>
+</resources>

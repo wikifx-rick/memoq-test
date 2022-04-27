@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string name="2915">borsa</string>
+    <string name="2922">gün/servis</string>
+    <string name="BTJ_000057">Tutar</string>
+    <string name="BTJ_000055">Tüccar</string>
+    <string name="BTJ_000068">Diğer</string>
+    <string name="BTJ_000065">Aldatmaca</string>
+    <string name="BTJ_000061">Katılımcı</string>
+    <string name="BTJ_000062">Aracı</string>
+    <string name="BTJ_000117">Doğrulama başarısız</string>
+    <string name="BTJ_000113">Operasyona izin verilmiyor, mevcut maruziyet soruşturma altında</string>
+    <string name="BTJ_000114">Geçerli pozlama için izin verilmeyen işlem kilitlendi</string>
+    <string name="BTJ_000079">Diğer</string>
+    <string name="BTJ_000002">Tutar</string>
+    <string name="BTJ_000015">Bekleyen</string>
+    <string name="BTJ_000010">Geçmedi</string>
+    <string name="BTJ_000131">Ziyaretçilerin yazmasına izin yok</string>
+    <string name="BTJ_000027">Doğrulandı</string>
+    <string name="BTJ_000025">Yanıt</string>
+    <string name="BTJ_000023">Saat</string>
+    <string name="BTJ_000024">Hall edildi</string>
+    <string name="BTJ_000020">gün</string>
+    <string name="BTJ_000038">Hall edildi</string>
+    <string name="BTJ_000034">Koruma Hakları Tutarı</string>
+    <string name="BTJ_000032">Hareket Hesabı</string>
+    <string name="BTJ_000041">Koruma Hakları Nesnesi</string>
+    <string name="19302">Analyzer</string>
+</resources>
